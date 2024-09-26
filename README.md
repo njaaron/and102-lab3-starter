@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app. <!-- Replace this with your specific challenges and experiences -->
+There was not really any major challenges. It was a fun lab and easy to follow. Only issue was with hiding the API key but professor told us not to worry about it anymore. <!-- Replace this with your specific challenges and experiences -->
 
 ## Resources
 
